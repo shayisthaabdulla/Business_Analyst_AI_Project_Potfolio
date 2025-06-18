@@ -8,9 +8,8 @@ I'm Shayistha Abdulla, a Microsoft Certified Dynamics 365 professional with 9+ y
 An AI-driven CRM automation project that streamlines agent performance reporting by integrating Dynamics 365, TSEE, reviews, and a proprietary GPT-based AI tool. Automates scoring and data validation to eliminate manual effort, improve data accuracy, and enable scalable, real-time insights.  
 
 
-### 2. AI-Driven Web Content Workflow  
-End-to-end AI content automation integrating GPT-based content generation with CMS and CRM workflows for real-time collaboration and content personalization.  
-[Explore Project →](./AI_Web_Content_Workflow)
+### 2. [Web Content Automation](https://github.com/shayisthaabdulla/Web_Content_Automation_AI)
+This project showcases an AI-driven content automation solution that transformed a manual, fragmented agent web content process into an integrated, efficient workflow. Using GPT-based content generation and seamless CRM-CMS-portal integration, it enhanced collaboration, reduced turnaround time, and ensured personalized, high-quality web content.
 
 ### 3. Social Media Content Automation  
 GPT prompt engineering to generate brand-aligned social media posts from agent survey responses, enabling scalable marketing automation.  
