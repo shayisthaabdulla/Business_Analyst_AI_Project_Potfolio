@@ -4,9 +4,9 @@ I'm Shayistha Abdulla, a Microsoft Certified Dynamics 365 professional with 9+ y
 
 ## Projects
 
-### 1. Automated Report Card Generation  
-Automated multi-source report scoring using AI logic and CRM data to reduce manual effort by 40+ minutes per report.  
-[Explore Project →](./Automated_Report_Card_Generation)
+### 1. [Automated Report Card Generation](https://github.com/shayisthaabdulla/Automated_Report_Card_AI-Integration/)  
+An AI-driven CRM automation project that streamlines agent performance reporting by integrating Dynamics 365, TSEE, reviews, and a proprietary GPT-based AI tool. Automates scoring and data validation to eliminate manual effort, improve data accuracy, and enable scalable, real-time insights.  
+
 
 ### 2. AI-Driven Web Content Workflow  
 End-to-end AI content automation integrating GPT-based content generation with CMS and CRM workflows for real-time collaboration and content personalization.  
