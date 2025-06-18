@@ -11,17 +11,18 @@ An AI-driven CRM automation project that streamlines agent performance reporting
 ### 2. [Web Content Automation](https://github.com/shayisthaabdulla/Web_Content_Automation_AI)
 This project showcases an AI-driven content automation solution that transformed a manual, fragmented agent web content process into an integrated, efficient workflow. Using GPT-based content generation and seamless CRM-CMS-portal integration, it enhanced collaboration, reduced turnaround time, and ensured personalized, high-quality web content.
 
-### 3. Social Media Content Automation  
-GPT prompt engineering to generate brand-aligned social media posts from agent survey responses, enabling scalable marketing automation.  
-[Explore Project →](./Social_Media_Content_Automation)
+### 3. [Social Media Content Automation](https://github.com/shayisthaabdulla/Social_Media_Content_Automation_CSQ_GBT_Workflow/)
+Automated the creation of platform-ready social media content using GPT-based prompts triggered by agent-submitted Content Survey Questionnaires (CSQs). Integrated seamlessly with Dynamics 365 CRM, the system eliminated manual copywriting by transforming structured CSQ data into brand-aligned posts for Facebook, LinkedIn, and Instagram. Fine-tuned AI prompts to reflect tone, platform standards, and engagement feedback—enabling scalable and personalized content delivery at speed.
 
 ## Skills & Tools  
 - AI: ChatGPT, GPT prompt engineering, AI content automation  
 - CRM: Microsoft Dynamics 365, Custom CMS  
 - Tools: Azure DevOps, MS Visio, PostgreSQL, Excel  
-- Methodologies: Agile, UAT, Requirements Gathering  
+- Methodologies: Agile, UAT, Requirements Gathering
 
-## Contact  
-LinkedIn: [Your LinkedIn URL]  
-Email: shayisthaabdulla@gmail.com  
+## Why AI in Business Analysis?
+As modern businesses adopt AI to streamline operations, Business Analysts must bridge the gap between technical capabilities and real-world business needs. My portfolio reflects how GPT and AI tools can enhance traditional BA functions like requirements gathering, stakeholder communication, content creation, and data analysis—making processes faster, smarter, and more scalable.
+
+## 📫 Let's Connect
+💼 [LinkedIn](https://www.linkedin.com/in/shayisthaa/)
 
