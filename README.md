@@ -1,4 +1,4 @@
-# AI-Driven Business Analysis Portfolio
+# 👩‍💻 AI-Driven Business Analysis Portfolio
 
 I'm Shayistha Abdulla, a Microsoft Certified Dynamics 365 professional with 9+ years of experience in CRM, specializing in AI implementation and Dynamics 365 CRM integration. This repository showcases my AI-focused BA projects that automate workflows, enhance content creation, and improve data accuracy using GPT and AI tools.
 
