@@ -19,10 +19,10 @@ Whether it's automating report card generation, transforming content creation us
 ## 📌 [Automated Report Card Generation](https://github.com/shayisthaabdulla/Automated_Report_Card_AI-Integration/)  
 An AI-driven CRM automation project that streamlines agent performance reporting by integrating Dynamics 365, TSEE, reviews, and a proprietary GPT-based AI tool. Automates scoring and data validation to eliminate manual effort, improve data accuracy, and enable scalable, real-time insights.  
 
-## 📌[Web Content Automation](https://github.com/shayisthaabdulla/Web_Content_Automation_AI)
+## 📌 [Web Content Automation](https://github.com/shayisthaabdulla/Web_Content_Automation_AI)
 This project showcases an AI-driven content automation solution that transformed a manual, fragmented agent web content process into an integrated, efficient workflow. Using GPT-based content generation and seamless CRM-CMS-portal integration, it enhanced collaboration, reduced turnaround time, and ensured personalized, high-quality web content.
 
-## 📌[Social Media Content Automation](https://github.com/shayisthaabdulla/Social_Media_Content_Automation_CSQ_GBT_Workflow/)
+## 📌 [Social Media Content Automation](https://github.com/shayisthaabdulla/Social_Media_Content_Automation_CSQ_GBT_Workflow/)
 Automated the creation of platform-ready social media content using GPT-based prompts triggered by agent-submitted Content Survey Questionnaires (CSQs). Integrated seamlessly with Dynamics 365 CRM, the system eliminated manual copywriting by transforming structured CSQ data into brand-aligned posts for Facebook, LinkedIn, and Instagram. Fine-tuned AI prompts to reflect tone, platform standards, and engagement feedback—enabling scalable and personalized content delivery at speed.
 
 ## 🛠️ Skills & Tools  
