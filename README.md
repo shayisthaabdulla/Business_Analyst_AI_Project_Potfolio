@@ -7,19 +7,19 @@ These projects demonstrate how I used GPT and AI tools to automate manual conten
 
 ## 📁 Featured Projects
 
-### 📌 Automated Report Card Generation[https://github.com/shayisthaabdulla/Automated_Report_Card_AI-Integration]
+### 📌 [Automated Report Card Generation](https://github.com/shayisthaabdulla/Automated_Report_Card_AI-Integration)
 **Overview**: Designed an AI-powered report card creation workflow by integrating data from Dynamics 365, TSEE, agent reviews, and GPT.  
 **Problem Solved**: Manual population of 15+ fields per report and inconsistent scoring logic.  
 **Tools & Technologies**: Dynamics 365 CRM, Excel, GPT-based scoring logic  
 **Outcome**: Reduced 40 minutes of manual work per report, improved accuracy, and enabled real-time insights at scale.
 
-### 📌 Web Content Automation[https://github.com/shayisthaabdulla/Web_Content_Automation_AI]
+### 📌 [Web Content Automation](https://github.com/shayisthaabdulla/Web_Content_Automation_AI)
 **Overview**: Built a full content automation system for insurance agents by combining structured inputs, GPT-generated drafts, and CRM-CMS integration.  
 **Problem Solved**: Manual copywriting delays, inconsistent brand tone, and review bottlenecks.  
 **Tools & Technologies**: Dynamics 365, CMS, GPT-4, Email Triggers  
 **Outcome**: Reduced turnaround time, eliminated human error, and enabled personalized, on-brand web content at scale.
 
-### 📌 Social Media Content Automation[https://github.com/shayisthaabdulla/Social_Media_Content_Automation_CSQ_GBT_Workflow]
+### 📌 [Social Media Content Automation](https://github.com/shayisthaabdulla/Social_Media_Content_Automation_CSQ_GBT_Workflow)
 **Overview**: Automated generation of social media content using GPT prompts sourced from structured CSQ forms submitted by agents.  
 **Problem Solved**: Time-consuming manual post creation, inconsistent tone, and campaign delays.  
 **Tools & Technologies**: GPT, Dynamics 365 CRM, Content Survey Questionnaires  
